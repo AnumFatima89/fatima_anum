@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Lecturer in Statistics"
 collection: teaching
-type: "Workshop"
+type: "Full-Time Faculty"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Queen Mary College, Department of Statistics"
+date: 2015-08-01
+location: "Lahore, Pakistan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught statistics at intermediate and udergraduate level. 
 
 Heading 1
 ======
