@@ -11,9 +11,9 @@ title                    : "Anum Fatima"
 title_separator          : "-"
 name                     : &name "Anum Fatima"
 description              : &description "A keen researcher"
-url                      : https://anumfatima89.github.io/anumfatima
+url                      : https://anumfatima89.github.io/fatima_anum
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anumfatima.github.io"
+repository               : "fatima_anum.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
