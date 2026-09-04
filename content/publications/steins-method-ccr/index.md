@@ -46,8 +46,8 @@ links:
   - type: preprint
     url: https://arxiv.org/abs/2212.09615
 
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+#image:
+  #caption: ''
+  #focal_point: ''
+  #preview_only: false
 ---
