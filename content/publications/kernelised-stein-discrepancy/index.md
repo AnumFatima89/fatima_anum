@@ -21,12 +21,12 @@ publication:
 peer_reviewed: true
 
 abstract: |
-  Complex data are often represented as a graph, which in turn can often be viewed
-as a realisation of a random graph, such as an inhomogeneous random graph model(IRG). 
-For general fast goodness-of-fit tests in high dimensions, kernelised Stein discrepancy (KSD) tests 
-are a powerful tool. Here, we develop a KSD-type test for IRG models that can be carried out with a single 
-observation of the network. The test applies to a network of any size, but is particularly interesting 
-for small networks for which asymptotic tests are not warranted. We also provide theoretical guarantees.
+  Complex data are often represented as a graph, which in turn can often be viewed 
+  as a realisation of a random graph, such as an inhomogeneous random graph model(IRG). 
+  For general fast goodness-of-fit tests in high dimensions, kernelised Stein discrepancy (KSD) tests 
+  are a powerful tool. Here, we develop a KSD-type test for IRG models that can be carried out with a single 
+  observation of the network. The test applies to a network of any size, but is particularly interesting 
+  for small networks for which asymptotic tests are not warranted. We also provide theoretical guarantees.
 
 tags:
   - Stein's Method
