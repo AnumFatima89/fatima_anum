@@ -69,7 +69,8 @@ sections:
           - publications
         exclude_featured: false
     design:
-      view: citation
+      view: rticle-grid
+      columns: 2
   - block: collection
     id: talks
     content:
