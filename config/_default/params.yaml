@@ -13,19 +13,21 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Anum Fatima"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
+    organization: "University of OXford"
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Researcher | Oxford"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "Researcher spacialising in Uncertainity quantification in AI systems, Trustworthy AI, Differential privacy, Network models and Stein's method."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      #twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      linkedin: "anum-fatima-286a3a18b"
+      google_scholar: "hLj_GRgAAAAJ&hl=en"
+      orcid: "0000-0003-2377-4298"
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
