@@ -1,0 +1,48 @@
+---
+title: "Transmuted Exponentiated Pareto-I Distribution"
+
+authors:
+  - me
+  - a-roohi
+
+date: "2016-01-01T00:00:00Z"
+publishDate: "2016-01-01T00:00:00Z"
+
+publication_types: ["article-journal"]
+
+publication:
+  name: "Pakistan Journal of Statistics"
+  volume: 32
+  issue: 1
+  pages: "63-80"
+
+peer_reviewed: true
+
+abstract: |
+  In this paper, we have introduced a new generalization of the Exponentiated Pareto-I 
+distribution named as the Transmuted Exponentiated Pareto-I distribution. The new 
+distribution can model data with increasing, decreasing or constant hazard rate. The 
+suitability of the distribution in modeling breaking strength of materials is highlighted 
+with real data sets. Furthermore, we have derived some properties of the distribution 
+including characteristic function, mean deviations, information entropies and order 
+statistics of the new distribution. The estimation of distribution parameters has been done 
+using Maximum Likelihood method. Finally, we have provided application of the new 
+proposed distribution using two real data sets. It has been observed that the new 
+distribution works better than the Pareto-I, Exponentiated Pareto-I and the Transmuted 
+Pareto-I distributions for both data sets. 
+
+tags:
+  - Probability Distributions
+  - Statistical Modelling
+  - Maximum Likelihood Estimation
+
+featured: false
+
+hugoblox:
+  ids: {}
+
+links:
+  - type: pdf
+    url: https://www.researchgate.net/profile/Anum-Fatima-7/publication/297765260_Transmuted_exponentiated_pareto-i_distribution/links/5de3aca2299bf10bc33561e2/Transmuted-exponentiated-pareto-i-distribution.pdf
+
+---
