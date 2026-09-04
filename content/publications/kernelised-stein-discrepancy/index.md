@@ -37,11 +37,6 @@ tags:
 featured: true
 
 links:
-  - type: paper
-    url: https://proceedings.mlr.press/v300/fatima26a.html
   - type: pdf
     url: https://raw.githubusercontent.com/mlresearch/v300/main/assets/fatima26a/fatima26a.pdf
-  - type: preprint
-    url: https://arxiv.org/abs/2505.21580
-
 ---
