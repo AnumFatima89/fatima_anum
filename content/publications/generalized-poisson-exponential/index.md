@@ -34,6 +34,9 @@ tags:
 
 featured: false
 
+hugoblox:
+  ids: {}
+
 links:
   - type: pdf
     url: https://www.researchgate.net/profile/Anum-Fatima-7/publication/337657333_THE_GENERALIZED_POISSON-EXPONENTIAL_DISTRIBUTION/links/5de3ae1092851c83645838fd/THE-GENERALIZED-POISSON-EXPONENTIAL-DISTRIBUTION.pdf
