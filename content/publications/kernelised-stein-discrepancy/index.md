@@ -5,17 +5,28 @@ authors:
   - me
   - gesine-reinert
 
-date: 2026-04-01
-publishDate: 2026-04-01
+date: '2026-05-02T00:00:00Z'
 
-publication_types:
-  - article
+publishDate: '2026-08-30T00:00:00Z'
 
-peer_reviewed: false
-featured: true
+publication_types: ['paper-conference']
+
+publication:
+  name: "Proceedings of The 29th International Conference on Artificial Intelligence and Statistics"
+  short_name: "AISTATS 2026"
+  volume: "300"
+  pages: "1225-1233"
+  publisher: "PMLR"
+
+peer_reviewed: true
 
 abstract: |
-  Complex data are often represented as a graph, which in turn can often be viewed as a realisation of a random graph, such as an inhomogeneous random graph model (IRG). For general fast goodness-of-fit tests in high dimensions, kernelised Stein discrepancy (KSD) tests are a powerful tool. Here, we develop a KSD-type test for IRG models that can be carried out with a single observation of the network. The test applies to a network of any size, but is particularly interesting for small networks for which asymptotic tests are not warranted. We also provide theoretical guarantees.
+  Complex data are often represented as a graph, which in turn can often be viewed
+as a realisation of a random graph, such as an inhomogeneous random graph model(IRG). 
+For general fast goodness-of-fit tests in high dimensions, kernelised Stein discrepancy (KSD) tests 
+are a powerful tool. Here, we develop a KSD-type test for IRG models that can be carried out with a single 
+observation of the network. The test applies to a network of any size, but is particularly interesting 
+for small networks for which asymptotic tests are not warranted. We also provide theoretical guarantees.
 
 tags:
   - Stein's Method
@@ -23,12 +34,14 @@ tags:
   - Kernel Methods
   - Statistical Machine Learning
 
-ids:
-  arxiv: 2505.21580
+featured: true
 
 links:
+  - type: paper
+    url: https://proceedings.mlr.press/v300/fatima26a.html
+  - type: pdf
+    url: https://raw.githubusercontent.com/mlresearch/v300/main/assets/fatima26a/fatima26a.pdf
   - type: preprint
-    provider: arxiv
-    id: 2505.21580
+    url: https://arxiv.org/abs/2505.21580
 
 ---
